@@ -1,0 +1,72 @@
+HTTrack3.48-21+htsswf+htsjava launched on Wed, 20 Feb 2019 08:38:55 at https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html -O1 "D:\00_GitHub\download\echarts_tutorial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:38:59	Warning: 	Note: due to https://www.w3cschool.cn remote robots.txt rules, links beginning with these path will be forbidden: /channel/, /data/, /edit/, /include/, /project/, /register?*, /login?*, /logout?*, /explore?*, /search?*, /project/list?*, /article?*tpl=article2 (see in the options to disable this)
+08:46:37	Warning: 	Retry after error -4 (Incorrect length (1280266 Bytes, 1538885 expected)) at link 7n.w3cschool.cn/attachments/avatar2/avatar_14.jpg (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-d9ls2fqu.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-v9mt2fte.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-j1nw2fvv.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-j2a42fy9.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-vltp2g31.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-m6uf2g6h.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-kbri2g8x.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-1tjc2j3n.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-1qnm2gaj.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-kg5b2gcb.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-xghf2gfo.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-659d2ggv.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-i7ml2gj0.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-7pbk2gm8.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-b4l52gpi.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-nlur2gsy.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-oyf72gur.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-dkse2h2r.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-qpfl2h11.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-drkp2h2s.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-53de2h69.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-h4y62h9j.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-bj682izj.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-p37d2hei.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-otrv2hgf.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-nmzo2hin.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-gz7n2hne.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-57f32hqi.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-5dve2in0.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-2ahz2hsz.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-vy212hy7.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-znms2i2b.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-kz5o2i7j.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-rdm32i99.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-ztlr2ibw.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-i5pr2ifg.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-86h52ihh.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-garm2jc4.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-c8eo2jgi.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:34	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-ygw12jih.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-mec528xa.html)
+08:48:37	Error: 	"Not Found" (404) at link 7nsts.w3cschool.cn/images/w3c/icon-copy.png (from https://www.w3cschool.cn/statics/css/w3.css)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=2 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=3 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=4 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=5 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=6 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=7 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=8 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=9 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=10 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:37	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/list?page=27 (from https://www.w3cschool.cn/echarts_tutorial/list/)
+08:48:38	Warning: 	Moved Permanently for www.w3cschool.cn/robots.txt
+08:48:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.w3cschool.cn/robots.txt and https://www.w3cschool.cn/robots.txt
+08:48:38	Warning: 	Warning moved treated for www.w3cschool.cn/robots.txt (real one is https://www.w3cschool.cn/robots.txt)
+08:48:38	Warning: 	Moved Permanently for www.w3cschool.cn/echarts_tutorial/
+08:48:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.w3cschool.cn/echarts_tutorial/ and https://www.w3cschool.cn/echarts_tutorial/
+08:48:38	Warning: 	File has moved from www.w3cschool.cn/echarts_tutorial/ to https://www.w3cschool.cn/echarts_tutorial/
+08:48:38	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-f6lq2c90.html (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-7o3u28yh.html)
+08:48:38	Error: 	"Service Temporarily Unavailable" (503) at link https://www.w3cschool.cn/echarts_tutorial/echart_来自ECharts教程，w3cschool。" (from https://www.w3cschool.cn/echarts_tutorial/echarts_tutorial-2hgc28yv.html)
+
+HTTrack Website Copier/3.48-21 mirror complete in 9 minutes 43 seconds : 610 links scanned, 553 files written (77764910 bytes overall) [17418464 bytes received at 29877 bytes/sec], 71297732 bytes transferred using HTTP compression in 375 files, ratio 14%, 18.4 requests per connection
+(53 errors, 8 warnings, 0 messages)

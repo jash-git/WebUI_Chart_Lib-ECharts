@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.w3cschool.cn	TRUE	/	FALSE	1999999999	PHPSESSID	hpvh6fjalk0ibgpg45mehaa5a5
+.baidu.com	TRUE	/	FALSE	1999999999	BAIDUID	E57CCD1028CB37E4215F982690353F41:FG=1
+.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_uid	deleted
+www.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_uid	deleted
+.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_auth	deleted
+www.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_auth	deleted
+.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_sauth	deleted
+www.w3cschool.cn	TRUE	/	FALSE	1999999999	ypre_sauth	deleted
+
